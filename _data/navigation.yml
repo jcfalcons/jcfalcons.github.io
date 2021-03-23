@@ -1,9 +1,9 @@
 main:
-  - title: "Roster"
-    url: /posts/
   - title: "Schedule"
+    url: /posts/
+  - title: "Scores"
     url: /categories/
-  - title: "Tags"
+  - title: "Roster"
     url: /tags/
   - title: "About"
     url: /about/
